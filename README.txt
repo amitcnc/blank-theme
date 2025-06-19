@@ -15,6 +15,6 @@ For more information about  please go to https://codeandcore.com .
 
 
 = 1.0 =
-* Released: April 04, 2025
+* Released: June 19, 2025
 
 Initial release
