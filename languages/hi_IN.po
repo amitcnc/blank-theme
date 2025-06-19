@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CNC Theme\n"
+"POT-Creation-Date: 2025-06-19 18:38+0530\n"
+"PO-Revision-Date: 2025-06-19 18:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily archive:"
+msgstr "दैनिक संग्रह:"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly archive:"
+msgstr "मासिक पुरालेख:"
+
+#: archive.php:35
+msgctxt "Monthly archive date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Annual archive:"
+msgstr "वार्षिक पुरालेख:"
+
+#: archive.php:38
+msgctxt "Annual archive date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Archive"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One Comment to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67 single.php:36
+msgid "Previous"
+msgstr ""
+
+#: comments.php:68 single.php:33
+msgid "Next"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:83
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Enter your Comment*"
+msgstr ""
+
+#: comments.php:89
+msgid "Name*"
+msgstr ""
+
+#: comments.php:91
+msgid "Email*"
+msgstr ""
+
+#: inc/core_func.php:64
+msgid "Header Menu"
+msgstr ""
+
+#: inc/core_func.php:65
+msgid "Footer Menu"
+msgstr ""
+
+#: search.php:20
+msgid "<h2 style='font-weight:bold;color:#000'>Search Results for: "
+msgstr ""
+
+#: single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "CNC Theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom theme based on client requirements."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the CNC team"
+msgstr ""
